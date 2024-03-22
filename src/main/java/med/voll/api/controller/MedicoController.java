@@ -17,6 +17,7 @@ public class MedicoController {
 
     @Autowired
     private MedicoRepository repository;
+
     @PostMapping
     @Transactional
     public void cadastrar(@RequestBody @Valid DadosCadastroMedico dado){
