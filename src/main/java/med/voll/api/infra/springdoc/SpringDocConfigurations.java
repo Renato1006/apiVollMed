@@ -26,7 +26,7 @@ public class SpringDocConfigurations {
                         .description("API Rest da aplicação Voll.med, contendo as funcionalidades de CRUD de médicos e de pacientes, além de agendamento e cancelamento de consultas")
                             .contact(new Contact()
                             .name("Time Backend Renato")
-                            .email("backend@voll.med"))
+                            .email("renato1006@gmail.com"))
                             .license(new License()
                                 .name("Apache 2.0")
                                 .url("http://voll.med/api/licenca")));
